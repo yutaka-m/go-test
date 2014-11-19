@@ -5,3 +5,7 @@ func main() {
   fmt.Printf("Hello")
 }
 
+func mock() {
+  fmt.Printf("mock")
+}
+
